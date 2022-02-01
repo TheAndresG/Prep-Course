@@ -1,0 +1,17 @@
+Variable:
+
+ En el mundo de la matematica una variable es un numero representado por una letra, la cual puede cambiar/representar de valor a conveniencia. Suele ser una forma facil de generalizar formulas o conceptos, por ejemplo la X o Y en las ecuaciones.
+ En cuanto a la programacion, se lo puede interpretar como algo similar. Es un "algo" que nosotros declaramos(escribimos) y que tiene cierto valor, tambien puesto por nosotros. La utilidad de esto viene en muchas formas;;
+ Tal y como las variables en matematica generaliza formulas, en la programacion podemos crear una variable que sea una frase, y que esta se muestre cada vez que sea necesaria. 
+ Un ejemplo facil puede ser: var nombre = "Juan". +creamos la variable nombre, la cual tiene el valor de "Juan"+ Y creamos una frase que sea -> "Bienvenido {nombre(en este caso Juan)}!", en caso de que cambiaramos la variable nombre, el nombre que se motraria cambiaria.
+
+Ademas existen variables que no pueden ser cambiadas una vez que las declaramos, es decir constantes (const), puede decirse que serian similares al numero PI: Un valor fijo que no puede cambiar nunca.
+
+Strings:
+ Dentro de la programacion existen varios tipos de datos, algo asi como categorias de objetos. Los Strings son una de estas categorias; son conjuntos (cadenas) de caracteres que suelen formas una frase. Un detalle importante es que los strings al ser palabras, numeros o simbolos, necesitan estar contenidas dentro de ciertos elementos para no ser confundidos con otros tipos de objetos:
+ Pueden estar dentro de comillas simples '', de comillas dobles "", backstrips ``; Y todo lo que este dentro de estas sera considerado parte del String indiferentemente el caracter que sea (aunque esto ultimo no aplica a ciertas conbinaciones de caracteres, ni en todos los lenguajes).
+
+Funciones:
+Una funcion es una orden que nosotros le damos a la computadora. Se identifican ya que tienen "()" al final de su nombre. Dentro de estos (), va lo que se conoce como Argumento, ciertos valores o datos que pueden (o no) ser requeridos para la funcion que estemos ejecutando.
+Existen funciones propias de cada lenguaje, pero ademas, podemos crerar nuestras propias funciones para que ejecuten nuestros codigos en determinados momentos. Por ejemplo una funcion que cuando haga click en "Enviar archivo", envie el archivo y deje un mensaje de "Enviado con exito".
+ Las func	
