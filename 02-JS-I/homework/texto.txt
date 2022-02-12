@@ -14,4 +14,6 @@ Strings:
 Funciones:
 Una funcion es una orden que nosotros le damos a la computadora. Se identifican ya que tienen "()" al final de su nombre. Dentro de estos (), va lo que se conoce como Argumento, ciertos valores o datos que pueden (o no) ser requeridos para la funcion que estemos ejecutando.
 Existen funciones propias de cada lenguaje, pero ademas, podemos crerar nuestras propias funciones para que ejecuten nuestros codigos en determinados momentos. Por ejemplo una funcion que cuando haga click en "Enviar archivo", envie el archivo y deje un mensaje de "Enviado con exito".
- Las func	
+ //No sabria definir return//
+
+
